@@ -1,2 +1,1 @@
-Captcha
-=======
+A simple PHP CAPTCHA script
